@@ -1,0 +1,20 @@
+.main{
+  border: solid;
+  border-width: 0px;
+  background-color: rgb(238, 238, 240);
+  width: 400px; text-align: center;
+  margin-right: auto;
+margin-left: auto;
+}
+.color{
+  color: rgb(64, 134, 245);
+}
+.bb{
+  list-style: none;
+}
+.complete{
+  border: none;
+}
+.remove{
+  border: none;
+}
